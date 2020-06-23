@@ -15,4 +15,7 @@ its a local host at IP address: 192.168.0.27
 ## Port
 The server hosts this game at port number: 9999
 
-<i>No need to give any input while running, All the values are stored in variables in code.</i>
+### While Executing
+No need to give any input while running, All the values are stored in variables in code.</br>
+All the code and images should be present in one folder.
+
